@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import Button from "../button_style/button";
+import Button from "./Button";
 
 function Main() {
   return (
